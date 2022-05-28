@@ -1,0 +1,5 @@
+Name                 ID       Tut    Work Distribution
+
+Mohammed Youssef   46-17077   T-21   The memory word definition and PCB.
+Anhar Yasser       34-7543    T-20   The memory allocation and assignment.
+Ahmed Ramadan      46-18324   T-31   The Scheduler.
